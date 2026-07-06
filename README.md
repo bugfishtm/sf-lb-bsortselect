@@ -2,7 +2,7 @@
 # 📦 Bugfish Sortselect Library
 
 > [!Warning]
-> This repository contains plugins for Suitefish CMS. For issues with third-party software or code included in this plugin, please contact the respective authors (search online by name). For Suitefish CMS-specific issues, create a ticket at: https://github.com/bugfishtm/bugfish-jquery-sortselect.
+> This repository contains plugins for Suitefish CMS. For issues with third-party software or code included in this plugin, please contact the respective authors (search online by name). For Software-specific issues, create a ticket at: https://github.com/bugfishtm/bugfish-jquery-sortselect.
 
 ## 📙 Introduction
 
